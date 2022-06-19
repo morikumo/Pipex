@@ -6,7 +6,7 @@
 #    By: mabid <mabid@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/05/01 13:46:38 by morikumo          #+#    #+#              #
-#    Updated: 2022/06/18 19:42:35 by mabid            ###   ########.fr        #
+#    Updated: 2022/06/19 14:01:09 by mabid            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -20,7 +20,7 @@ OBJS			= $(SRCS:.c=.o)
 
 NAME			= pipex
 
-CFLAGS			= -Wall -Wextra -Werror -g
+CFLAGS			= -Wall -Wextra -Werror
 
 RM				= rm -f
 
